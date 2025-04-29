@@ -2,7 +2,7 @@
 
 A Flask web application for stock price prediction using LSTM neural networks. Features interactive visualizations with moving averages, comparative trend analysis, and downloadable datasets. Built with Keras, pandas, and matplotlib for financial market analysis.
 
-![Stock Prediction Demo](https://raw.githubusercontent.com/username/StockTrend-AI/main/screenshots/demo.png)
+![Stock Prediction Demo]([https://raw.githubusercontent.com/username/StockTrend-AI/main/screenshots/demo.png](https://github.com/AdarshXKumAR/StockTrend-AI/blob/main/demo.png))
 
 ## Features
 

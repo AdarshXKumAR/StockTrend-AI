@@ -4,7 +4,7 @@ A Flask web application for stock price prediction using LSTM neural networks. F
 
 ![Stock Prediction Demo](https://github.com/AdarshXKumAR/StockTrend-AI/blob/main/demo.png)
 
-## Features
+## ✨ Features
 
 - **Stock Data Analysis**: Analyze historical stock data using yfinance API
 - **Machine Learning Predictions**: LSTM neural network model for predicting future stock prices
@@ -12,7 +12,7 @@ A Flask web application for stock price prediction using LSTM neural networks. F
 - **Descriptive Statistics**: View key statistical data for each stock
 - **Dataset Export**: Download analyzed stock data as CSV files
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - **Backend**: Flask, Python
 - **Data Processing**: Pandas, NumPy
@@ -21,11 +21,11 @@ A Flask web application for stock price prediction using LSTM neural networks. F
 - **Frontend**: HTML, CSS, Bootstrap
 - **Financial Data**: Yahoo Finance API (yfinance)
 
-## Installation
+## 🔃 Installation
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/StockTrend-AI.git
+   git clone https://github.com/AdarshXKumAR/StockTrend-AI.git
    cd StockTrend-AI
    ```
 
@@ -58,7 +58,7 @@ A Flask web application for stock price prediction using LSTM neural networks. F
 
 3. Enter a stock ticker (e.g., AAPL, MSFT, TSLA) and submit to see the analysis and predictions
 
-## Application Structure
+## 📚 Application Structure
 
 ```
 StockTrend-AI/
@@ -88,11 +88,11 @@ The application uses a Long Short-Term Memory (LSTM) neural network pre-trained 
 - Add user accounts to save favorite stocks and analyses
 - Incorporate sentiment analysis from financial news
 
-## License
+## 📝 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
 - Data provided by Yahoo Finance API
 - Inspired by stock market technical analysis techniques

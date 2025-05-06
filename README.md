@@ -1,4 +1,4 @@
-# StockTrend-AI
+# 📈 StockTrend-AI
 
 A Flask web application for stock price prediction using LSTM neural networks. Features interactive visualizations with moving averages, comparative trend analysis, and downloadable datasets. Built with Keras, pandas, and matplotlib for financial market analysis.
 
@@ -44,7 +44,7 @@ A Flask web application for stock price prediction using LSTM neural networks. F
    - Place your `keras_model.h5` file in the root directory
    - If you don't have one, you will need to train your own LSTM model
 
-## Usage
+## 🚀 Usage
 
 1. Run the Flask application:
    ```
@@ -71,7 +71,7 @@ StockTrend-AI/
     └── index.html          # Web interface
 ```
 
-## Model Information
+## 🧠 Model Information
 
 The application uses a Long Short-Term Memory (LSTM) neural network pre-trained on historical stock data. The model:
 
@@ -80,7 +80,7 @@ The application uses a Long Short-Term Memory (LSTM) neural network pre-trained 
 - Applies MinMaxScaler to normalize data before prediction
 - Returns the predicted trend compared to actual stock prices
 
-## Future Improvements
+## 🔮 Future Improvements
 
 - Add more technical indicators (RSI, MACD, Bollinger Bands)
 - Implement backtesting functionality to evaluate model performance
@@ -100,4 +100,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Note**: This application is for educational purposes only and should not be used for actual financial investment decisions.
+**Note**: This application is for educational purposes only and should not be used for actual financial investment decisions.y
